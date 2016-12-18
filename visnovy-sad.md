@@ -1,5 +1,7 @@
 #Višňový sad
-Autor: Anton Pavlovič Čechov
+Anton Pavlovič Čechov (přeložil Leoš Suchařípa)
+
+Artur 2011
 
 ##O autorovi
 Ruský spisovatel Anton Pavlovič Čechov se narodil v roce 1860 v Taganrogu, jako syn
@@ -13,6 +15,6 @@ Anton Pavlovič Čechov byl vynikajícím povídkářem a tvůrcem lyrických ko
 
 ###Dílo Antona Pavloviče Čechova
 
-Úředníkova smrt, Chameleón, Ivanov, Step, Nudná hystorie, Pavilon č. 6, Dáma s psíčkem,Černý mnich, Sachalin, dramata Racek, Strýček Váňa, Tři sestry, Višňový sad
+Úředníkova smrt, Chameleón, Ivanov, Step, Nudná hystorie, Pavilon č. 6, Dáma s psíčkem, Černý mnich, Sachalin, dramata Racek, Strýček Váňa, Tři sestry, Višňový sad
 
-(Převzato z www.spisovatele.cz
+(Převzato z www.spisovatele.cz)
