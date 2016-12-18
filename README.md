@@ -1,1 +1,2 @@
-# -ten-sk-den-k
+# Čtenářský deník
+Obsahuje zápisky povinné četby k maturitě.
