@@ -54,7 +54,7 @@ Vedle další tvorby překládal a adaptoval divadelní hry cizích autorů (Dos
 |Literární žánr|novela|
 |Čas a místo děje|Alžír pod francouzskou správou (počátek 20. století), první část se odehrává v řádu několika dní, druhá v řádu měsíců|
 
-## Postavy
+### Postavy
 
 • **Meursault** – hlavní postava, z jeho pohledu je vyprávěn děj, lhostejný k okolí, ničeho nelituje, neprojevuje své city a vše okolo něj plyne
 
@@ -62,15 +62,15 @@ Vedle další tvorby překládal a adaptoval divadelní hry cizích autorů (Dos
 
 • **Raymond** – jeho soused, pasák s pochybným charakterem, obdivuje Meursaulta a vyhledává u něj rady
 
-## Hlavní téma a motivy
+### Hlavní téma a motivy
 
 Hlavním tématem díla je neschopnost společnosti přijmout odlišného jedince a absurdita počínání společnosti při vyrovnání se s takovým člověkem. Celý proces je absurdní především kvůli tomu, že se v něm většinou projednává Meursaultův život a nikoliv okolnosti samotné vraždy. Sám Meursault se při něm skoro vůbec nedostane ke slovu, a ani o to sám nejeví zájem.
 
-## Kompozice a jazykové prostředky
+### Kompozice a jazykové prostředky
 
 Děj je vyprávěn z pohledu Meursaulta prostřednictvím ich-formy. Autor nepoužívá nijak složitá souvětí, sloh je velmi jednoduchý a je použita spisovná čeština. Dílo je členěno na dvě části, první vypráví krátký úsek Meursaultova života před jeho zatčením a druhá část pak popisuje samotný proces, jeho pobyt v cele a setkání s různými lidmi, kteří mohou ovlivnit výsledný rozsudek. Zejména v této části se pak objevují se pak projevují Meursaultovy úvahy o smrti.
 
-## Děj
+### Děj
 
 Na začátku knihy zjišťujeme, že hlavní postavě zemřela matka. Odjíždí tedy na pohřeb do ústavu, kam ji nechal dát v době, kdy ji neměl jak finančně zaopatřit. Pak ji také příliš nenavštěvoval v domnění, že si s ní nemají moc co říct a že v ústavu stejně má přátele v jejím věku, kteří jí budou dělat lepší společnost.
 

@@ -24,7 +24,7 @@ V roce 1964, na Zimních olympijských hrách v Innsbrucku, se u Oty Pavla proje
 
 Ota Pavel byl osobitý prozaik, jehož dílo se dělí na dvě tematicky odlišné oblasti, ale umělecky je podivuhodně jednotné a bývá označováno jako žurnalistická beletrie.
 
-#### Próza
+#### Próza:
 
 Autor byl znám především jako sportovní novinář. Své reportáže a povídky shrnul do pěti knížek, které zaujaly jeho přístupem ke sportu. Nejde mu jen o rekordy a úspěch, ale vedle fyzických dovedností zkoumá povahovou a mravní kvalitu člověka.
 
