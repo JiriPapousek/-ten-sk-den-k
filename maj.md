@@ -21,19 +21,30 @@ V roce 1836 byl vydán autorovým nákladem Máj. Mácha dokončoval v té době
 <chci to vedle zobrazit normalne>8. 11. 1836 si měl brát Eleonorou Šomkovou, ale dva dny předtím v Litoměřicích neočekávaně zemřel a v plánovaný den svatby se proto konal jeho pohřeb.
 
 ### Dílo Karla Hynka Máchy
-Próza:
-- Cikáni - 1835, próza, v utrpení mladého cikána se soustřeďuje tragika všech ostatních postav. Objevuji se zde také zážitky z cest po vlasti a z italské cesty.
-- Pouť krkonošská - 1834
-- Večer na Bezdězu - 1834
-- Márinka - 1834
-- Křivoklát - 1834, historická próza, jediná dokončená a časově nejpozdější část zamýšlené tetralogie Kat z doby Václava IV.
 
-Zlomky dramat s historickými náměty:
+#### Próza:
 
-- Bratři - 1832
-- Král Fridrich - 1832-33
-- Boleslav - 1831-33
-- Bratrovrah - asi 1833
+- **Cikáni** - 1835, próza, v utrpení mladého cikána se soustřeďuje tragika všech ostatních postav. Objevuji se zde také zážitky z cest po vlasti a z italské cesty.
+
+- **Pouť krkonošská** - 1834
+
+- **Večer na Bezdězu** - 1834
+
+- **Márinka** - 1834
+
+- **Křivoklát** - 1834, historická próza, jediná dokončená a časově nejpozdější část zamýšlené tetralogie Kat z doby Václava IV.
+
+#### Zlomky dramat s historickými náměty:
+
+- **Bratři** - 1832
+
+- **Král Fridrich** - 1832-33
+
+- **Boleslav** - 1831-33
+
+- **Bratrovrah** - asi 1833
+
+*(převzato z webu spisovatele.cz)*
 
 ## Obsah díla
 |||
@@ -43,8 +54,9 @@ Zlomky dramat s historickými náměty:
 |Čas a místo děje|První tři zpěvy se odehrají v rozmezí dvou dnů, poslední se odehrává v poslední den v roce o sedm let později a také na první máj v roce následujícím. Celý děj se odehrává v okolí jezera se skálou, nedalekou věží a popravčím pahorkem|
 
 ## Postavy
-- Vilém – vůdce loupežníků, přemýšlivý, litující se člověk, pomstychtivý
-- Jarmila – Vilémova milá, smutná a hluboce zamilovaná
+- **Vilém** – vůdce loupežníků, přemýšlivý, litující se člověk, pomstychtivý
+
+- **Jarmila** – Vilémova milá, smutná a hluboce zamilovaná
 
 ## Hlavní téma a motivy
 Hlavním tématem Máje je provinění jednotlivých postav vystupujích v díle, především Viléma a Jarmily, ale také Vilémova otce. Vilém se provinil vraždou vlastního otce, kterému se chtěl pomstít

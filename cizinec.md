@@ -14,35 +14,37 @@ Literární tvorba Alberta Camuse je žánrově bohatá. Vedle tvorby publicisti
 
 ### Dílo Alberta Camuse
 
-Próza:
+#### Próza:
 
-• Cizinec - 1942, román, kterým autor zahájil svou úspěšnou literární dráhu. Uplatnil v něm svou filozofii absurdity lidské existence. Hrdina Meursault při rekapitulaci svého života před popravou dochází k závěru, že je cizincem v lidském kolektivu i ve svém vlastním životě.
+- **Cizinec** - 1942, román, kterým autor zahájil svou úspěšnou literární dráhu. Uplatnil v něm svou filozofii absurdity lidské existence. Hrdina Meursault při rekapitulaci svého života před popravou dochází k závěru, že je cizincem v lidském kolektivu i ve svém vlastním životě.
 
-• Mor - 1947, román, v němž Camus využívá své zkušenosti z odboje. Zvýraznil princip lidské solidarity a aktivní boj k projevům zla.
+- **Mor** - 1947, román, v němž Camus využívá své zkušenosti z odboje. Zvýraznil princip lidské solidarity a aktivní boj k projevům zla.
 
-Filozoficky jsou laděny:
+#### Filozoficky laděny:
 
-• Pád - 1956, román
+- **Pád** - 1956, román
 
-• Šťastná smrt - 1971, román
+- **Šťastná smrt** - 1971, román
 
-• Exil a království - 1957, sbírka povídek
+- **Exil a království** - 1957, sbírka povídek
 
-• Mýtus o Sisyfovi - 1942, filozofický esej založený na teorii absurdity
+- **Mýtus o Sisyfovi** - 1942, filozofický esej založený na teorii absurdity
 
-• Člověk revoltující - 1951, eseje zabývajíci se různými projevy lidské vzpoury
+- **Člověk revoltující** - 1951, eseje zabývajíci se různými projevy lidské vzpoury
 
-Dramatická tvorba:
+#### Dramatická tvorba:
 
-• Caligula - 1944, představuje římského císaře jako vražedného tyrana
+- **Caligula** - 1944, představuje římského císaře jako vražedného tyrana
 
-• Nedorozumění - 1944, v tomto dramatu chladnokrevně vraždí matka s dcerou. Jednou zavraždí omylem syna ( bratra ), protože ho při svém hrůzném činu nepoznaly. Po zjištění skutečnosti, kterou však berou jako nedorozumění, spáchají sebevraždu.
+- **Nedorozumění** - 1944, v tomto dramatu chladnokrevně vraždí matka s dcerou. Jednou zavraždí omylem syna ( bratra ), protože ho při svém hrůzném činu nepoznaly. Po zjištění skutečnosti, kterou však berou jako nedorozumění, spáchají sebevraždu.
 
-• Stav obležení - 1948
+- **Stav obležení** - 1948
 
-• Spravedliví - 1949
+- **Spravedliví** - 1949
 
 Vedle další tvorby překládal a adaptoval divadelní hry cizích autorů (Dostojevskij, Lope de Vega, Calderón).
+
+*(převzato z webu spisovatele.cz)*
 
 ## Obsah díla
 
@@ -54,11 +56,11 @@ Vedle další tvorby překládal a adaptoval divadelní hry cizích autorů (Dos
 
 ## Postavy
 
-• Meursault – hlavní postava, z jeho pohledu je vyprávěn děj, lhostejný k okolí, ničeho nelituje, neprojevuje své city a vše okolo něj plyne
+• **Meursault** – hlavní postava, z jeho pohledu je vyprávěn děj, lhostejný k okolí, ničeho nelituje, neprojevuje své city a vše okolo něj plyne
 
-• Marie – jeho milenka, která ho miluje i přes jeho odlišnost a vyhledává u něj jakékoliv náznaky citu k ní
+• **Marie** – jeho milenka, která ho miluje i přes jeho odlišnost a vyhledává u něj jakékoliv náznaky citu k ní
 
-• Raymond – jeho soused, pasák s pochybným charakterem, obdivuje Meursaulta a vyhledává u něj rady
+• **Raymond** – jeho soused, pasák s pochybným charakterem, obdivuje Meursaulta a vyhledává u něj rady
 
 ## Hlavní téma a motivy
 
