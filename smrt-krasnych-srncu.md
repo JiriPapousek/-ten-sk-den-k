@@ -45,3 +45,36 @@ Velkou pozornost vzbudily Pavlovy autobiografické vzpomínkové prózy, ve kter
 - **Smrt krásných srnců** - 1971, sbírka humorně laděných vzpomínkových próz, jejichž ústřední postavou je Pavlův tatínek. V přibližně chronologickém sledu zachycuje soubor příběhy z autorova rodinného proastředí, v němž dominuje postava tatínka - velkého snílka a malého dobrodruha. První vydání obsahovalo osm povídek:
 
 *(převzato z webu spisovatele.cz)*
+
+## Obsah díla
+
+|||
+|-------------------|------|
+|Literární druh|epika|
+|Literární žánr|sbírka sedmi povídek|
+|Čas a místo děje|Čechy v období první republiky, protektorátu a také krátce po válce|
+
+### Postavy
+
+- **Leo Popper** - autorův otec, obchodník s vysavači a ledničkami ve firmě Elektrolux, milovník rybaření a přírody, žid
+
+- **Hermína Popperová** - autorova matka, trpělivá, snáší otcovy výstřelky, starostlivá
+
+- **Karel Prošek** - otcův přítel, pytlák, vlastní chalupu, kam autorova rodina často jezdila, má psa Holana
+
+- **Otto Popper** - autor a zároveň vypravěč prostřednictvím ich-formy
+
+### Hlavní téma a motivy
+
+V autobiografických povídkách autor zachycuje, jak se jeho rodina vypořádávala s válkou, ale také zde popisuje otcův vztah k přírodě a časté komické situace vzniklé jeho počínáním.
+
+### Kompozice a jazykové prostředky
+
+Dílo je sbírkou sedmi povídek s chronologickou kompozicí, ve kterých jsou využity poměrně podrobné popisy a líčení přírody.
+
+Autor zde používá kromě spisovné češtiny také hovorovou, místy lze najít také citově zabarvené výrazy, cizí slova a nářečí.
+
+### Děj
+### Ohodnocení
+
+Kniha se mi líbila, povídky byly čtivé a díky tomu, že vycházely z autorovy vlastní zkušenosti, působily věrně a velmi zajímavě.
