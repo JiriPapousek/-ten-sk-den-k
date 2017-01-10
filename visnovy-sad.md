@@ -16,6 +16,40 @@ Anton Pavlovič Čechov byl vynikajícím povídkářem a tvůrcem lyrických ko
 ### Dílo Antona Pavloviče Čechova
 
 - Úředníkova smrt, Chameleón, Ivanov, Step, Nudná hystorie, Pavilon č. 6, Dáma s psíčkem, Černý mnich, Sachalin
+
 - dramata Racek, Strýček Váňa, Tři sestry, Višňový sad
+
+## Obsah díla
+|||
+|-------------------|------|
+|Literární druh|epika|
+|Literární žánr|drama|
+|Čas a místo děje|ruské šlechtické sídlo v období průmyslové revoluce|
+
+### Postavy
+
+- **Raněvská** - majitelka panství, přehlíží dluhy, představitelka nižší šlechty a starých pořádků, po smrti svého dítěte odjela do Paříže, kde ji opustil její druhý manžel
+
+- **Aňa** - dcera Raněvské, naivní, zamilována do Trofimova
+
+- **Varja** - nevlastní dcera Raněvské, stará se o panství, zodpovědná a jediná v rodině, která se dluhy nepřehlíží, ráda by se provdala za Lopachina
+
+- **Lopachin** - podnikatel, představitel buržoazie, necitlivý, pragmatický, jeho otec sloužil na panství, chce višnový sad v panství nechat vykácet a rozparcelovat chatařům
+
+- **Trofimov** - věčný student, levicový idealista, učil utonolého syna Raněvské
+
+- **Simeonov-Piščik** - statkář
+
+- **Duňaša** - služebná, zamilovaná do Jašy
+
+- **Jepichodov** - účetní, zamilovaný do Duňašy
+
+- **Firs** - starý komorník
+
+- **Jaša** - mladý sluha
+
+### Hlavní téma a motivy
+
+
 
 (Převzato z www.spisovatele.cz)
