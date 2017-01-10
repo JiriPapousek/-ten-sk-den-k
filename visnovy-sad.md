@@ -19,6 +19,8 @@ Anton Pavlovič Čechov byl vynikajícím povídkářem a tvůrcem lyrických ko
 
 - dramata Racek, Strýček Váňa, Tři sestry, Višňový sad
 
+*(Převzato z www.spisovatele.cz)*
+
 ## Obsah díla
 |||
 |-------------------|------|
@@ -49,7 +51,3 @@ Anton Pavlovič Čechov byl vynikajícím povídkářem a tvůrcem lyrických ko
 - **Jaša** - mladý sluha
 
 ### Hlavní téma a motivy
-
-
-
-(Převzato z www.spisovatele.cz)
