@@ -52,19 +52,22 @@ Vedle další tvorby překládal a adaptoval divadelní hry cizích autorů (Dos
 |-------------------|------|
 |Literární druh|epika|
 |Literární žánr|novela|
-|Čas a místo děje|Alžír pod francouzskou správou (počátek 20. století), první část se odehrává v řádu několika dní, druhá v řádu měsíců|
+|Čas a místo děje|Alžír pod francouzskou správou (počátek 20. století), ústav pro přestárlé, byt, pláž za Alžírem, cela a soudní síň, první část se odehrává v řádu několika dní, druhá v řádu měsíců - celkem tedy asi rok|
 
 ### Postavy
 
-• **Meursault** – hlavní postava, z jeho pohledu je vyprávěn děj, lhostejný k okolí, ničeho nelituje, neprojevuje své city a vše okolo něj plyne
+• **Meursault** – hlavní postava, úředník okolo třiceti let, z jeho pohdu je vyprávěn děj, lhostejný k okolí, ničeho nelituje, neprojevuje své city a vše okolo něj plyne, jedná pudově
 
 • **Marie** – jeho milenka, která ho miluje i přes jeho odlišnost a vyhledává u něj jakékoliv náznaky citu k ní
 
 • **Raymond** – jeho soused, pasák s pochybným charakterem, obdivuje Meursaulta a vyhledává u něj rady
 
+• dále pak Salamon (starý soused se psem), Emanuel (kolega z práce), Mason (vlastní chatu na pláži, známý Raymonda), Arabové
+
 ### Hlavní téma a motivy
 
-Hlavním tématem díla je neschopnost společnosti přijmout odlišného jedince a absurdita počínání společnosti při vyrovnání se s takovým člověkem. Celý proces je absurdní především kvůli tomu, že se v něm většinou projednává Meursaultův život a nikoliv okolnosti samotné vraždy. Sám Meursault se při něm skoro vůbec nedostane ke slovu, a ani o to sám nejeví zájem.
+Hlavním tématem díla je odcizení společnosti, neschopnost společnosti přijmout odlišného jedince a absurdita počínání společnosti při vyrovnání se s takovým člověkem. Celý proces je absurdní především kvůli tomu, že se v něm většinou projednává Meursaultův život a nikoliv okolnosti samotné vraždy. Sám Meursault se při něm skoro vůbec nedostane ke slovu, a ani o to sám nejeví zájem.
+Dále je zde patrný motiv absurdity lidské konečnosti a toho, že nezáleží na tom, kdy zemřeme.
 
 ### Kompozice a jazykové prostředky
 

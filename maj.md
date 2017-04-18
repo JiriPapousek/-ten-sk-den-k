@@ -54,6 +54,7 @@ V roce 1836 byl vydán autorovým nákladem Máj. Mácha dokončoval v té době
 |Čas a místo děje|První tři zpěvy se odehrají v rozmezí dvou dnů, poslední se odehrává v poslední den v roce o sedm let později a také na první máj v roce následujícím. Celý děj se odehrává v okolí jezera se skálou, nedalekou věží a popravčím pahorkem|
 
 ### Postavy
+
 - **Vilém** – vůdce loupežníků, přemýšlivý, litující se člověk, pomstychtivý
 
 - **Jarmila** – Vilémova milá, smutná a hluboce zamilovaná
